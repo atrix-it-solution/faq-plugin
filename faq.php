@@ -7,8 +7,6 @@
  * Author: Webshouters
  * Author URI: https://www.mysite.com/
  * Text Domain: faq
- * Requires at least: 5.6
- * Requires PHP: 7.4
  */
 
 defined('ABSPATH') or die('Direct access not allowed!');

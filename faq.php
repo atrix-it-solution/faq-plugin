@@ -3,7 +3,7 @@
  * Plugin Name: FAQ Manager
  * Plugin URI: https://wordpress.org/plugins/
  * Description: Manage FAQs with categories
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Webshouters
  * Author URI: https://www.mysite.com/
  * Text Domain: faq
